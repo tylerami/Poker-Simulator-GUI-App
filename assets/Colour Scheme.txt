@@ -1,0 +1,5 @@
+Dark gray: #0B0C10
+Med gray: #1F2833
+light gray: #C5C6C7
+light turq: #66FCF1
+dark turq: #45A29E
